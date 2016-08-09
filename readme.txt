@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git learning road.
 Creating a new branch is quick and simple.
 merge with --no-ff.
+master add.
